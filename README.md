@@ -1,0 +1,1 @@
+# mineral_list.html
